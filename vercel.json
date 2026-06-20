@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/ENG",
+      "destination": "/ENG.html"
+    },
+    {
+      "source": "/HIN",
+      "destination": "/HIN.html"
+    },
+    {
+      "source": "/Willow",
+      "destination": "/Willow.html"
+    }
+  ]
+}
