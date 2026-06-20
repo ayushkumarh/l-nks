@@ -11,6 +11,20 @@
     {
       "source": "/Willow",
       "destination": "/Willow.html"
+    },
+
+    {
+      "source": "/Will",
+      "destination": "/Will.html"
+    },
+
+    {
+
+     "source":/T4",
+     "destination": "/T4.html"
+
     }
+    
+    
   ]
 }
